@@ -1,0 +1,10 @@
+1. Creat a repositery and link it with this project.
+2. Creat a vertual environment with respect to this project.
+3. Creat a setup and package building for environment.
+4. Data injection part to make data inputs
+5. Data transformations and store.
+6. Function file to make or recall functions when and where required.
+7. Creating a pipeline by using tranformed data, imported liberaries, custome liberaries and functions.
+8. Training model
+9. Testing model performance and selection. Model variable displays.
+10. User input check with the models.
